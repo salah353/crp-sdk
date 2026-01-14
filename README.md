@@ -1,4 +1,4 @@
- # CRP SDK — Chain Relay Protocol (Sui)
+# CRP SDK — Chain Relay Protocol (Sui)
 
 CRP SDK is an open-source SDK for **secure local signing and lifecycle management of Sui transactions**.
 It helps wallet and fintech developers integrate stablecoin transfers without exposing private keys.
@@ -18,7 +18,6 @@ USDT transfer executed on Sui mainnet:
 
 ```bash
 dart pub add crp_sdk
-````
 
 ### 2) Send USDT on Sui (local signing)
 
