@@ -1,8 +1,4 @@
-Copy-paste this **entire README** into:
-[https://github.com/salah353/crp-sdk](https://github.com/salah353/crp-sdk) → `README.md` → ✏️ Edit → Paste → **Commit changes**
-
-````md
-# CRP SDK — Chain Relay Protocol (Sui)
+ # CRP SDK — Chain Relay Protocol (Sui)
 
 CRP SDK is an open-source SDK for **secure local signing and lifecycle management of Sui transactions**.
 It helps wallet and fintech developers integrate stablecoin transfers without exposing private keys.
