@@ -45,8 +45,3 @@ print("Tx Hash: ${result.txHash}");
 ## License
 
 MIT
-
-```
-
-**ONE concrete task:** Paste this into `crp-sdk/README.md` and commit it, then reply **“SDK README updated”**.
-```
